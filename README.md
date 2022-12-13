@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Step 1
-  Install or enable IIS by opening the control panel 
+  Install or enable IIS by opening the control panel. You can do this by typing "control panel" from your search bar within your task bar at the bottom of your desktop. 
 </p>
 <br />
 
