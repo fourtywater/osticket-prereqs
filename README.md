@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Step 1
-  Install or enable IIS by opening the control panel. You can do this by typing "control panel" from your search bar within your task bar at the bottom of your desktop. 
+  Install or enable IIS by opening the control panel. IIS will will enable a web server on your computer to run osTicket from the web. You can do this by typing "control panel" from your search bar within your task bar at the bottom of your desktop. 
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Once you on the uninstall or change a program screen. Select Turn Windows featur
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select the Internet Information Services radio button in the dialog box. 
 </p>
 <br />
 <p>
