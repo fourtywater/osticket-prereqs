@@ -113,7 +113,7 @@ Installation errors should be fixed at this point.  Download and install the osT
 <img src="https://i.imgur.com/UPXpiYv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once osTicket has been installed, open the download folder and copy it into your wwroot folder that was created from IIS and rename the folder from upload to osTicket. 
+Once osTicket has been installed, open the download folder and copy it into your wwwroot folder that was created from IIS and rename the folder from upload to osTicket. filepath ThisPC/Windows (C:)/inetpub/wwwroot
 </p>
 <br />
 <p>
