@@ -56,10 +56,10 @@ Select the Internet Information Services radio button in the dialog box and clic
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/77d9lAc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once IIS has been installed 
+Once IIS has been installed, search the internet for Microsoft Web Platform Installer and download this extension.  You will need it to install the remaining software needed to install osTicket. 
 </p>
 <br />
 <p>
