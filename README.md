@@ -52,7 +52,7 @@ Once you on the uninstall or change a program screen. Select Turn Windows featur
 <img src="https://i.imgur.com/GR02SGf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Select the Internet Information Services radio button in the dialog box. 
+Select the Internet Information Services radio button in the dialog box and click Ok. 
 </p>
 <br />
 <p>
