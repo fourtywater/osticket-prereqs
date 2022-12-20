@@ -17,6 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Add Internet Information Services
 - Add MySQL 5.5
 - Add all simple versions of x86 PHP up to v7.3
 - Install osTicket v1.15.8
