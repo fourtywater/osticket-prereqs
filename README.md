@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Reload IIS (open IIS, Stop and Start the server) 
 - Enable extensions in IIS
 - Refresh the osTicket site in your browser and observe the changes
+- Clean up files for optimal use
 
 <h2>Installation Steps</h2>
 
@@ -212,7 +213,8 @@ Go to your osTicket installer in your browser tab and fill out the following inf
 This screen will show a successful installation of osTicket
 </p>
 <br />
-<br />
+<h3>Clean up files for optimal use</h3>
+
 <p>
 <img src="https://i.imgur.com/KTZ9fhl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
