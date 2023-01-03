@@ -109,6 +109,9 @@ Install Microsoft Visual C++
 Install PHP Manager
 </p>
 <br />
+
+<h3>Install osTicket v1.15.8</h3>
+
 <p>
 <img src="https://i.imgur.com/eqFSUiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
