@@ -133,6 +133,9 @@ Once osTicket has been installed, open the download folder and copy it into your
 Rename the upload folder to osTicket in the wwwroot folder
 </p>
 <br />
+
+<h3>Reload IIS (open IIS, Stop and Start the server)</h3>
+
 <p>
 <img src="https://i.imgur.com/oXT19Dq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
