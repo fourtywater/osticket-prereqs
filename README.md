@@ -70,8 +70,10 @@ Once IIS has been installed, search the internet for Microsoft Web Platform Inst
 <p>
 <img src="https://i.imgur.com/THXv7zF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <br />
+
+<h3>Add all simple versions of x86 PHP up to v7.3</h3>
+
 <p>
 <img src="https://i.imgur.com/X7Fu35v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
