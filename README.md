@@ -65,6 +65,8 @@ Select the Internet Information Services radio button in the dialog box and clic
 Once IIS has been installed, search the internet for Microsoft Web Platform Installer and download this extension.  You will need it to install the remaining software needed to install osTicket. 
 </p>
 <br />
+
+<h3>Add MySQL 5.5</h3>
 <p>
 <img src="https://i.imgur.com/THXv7zF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
